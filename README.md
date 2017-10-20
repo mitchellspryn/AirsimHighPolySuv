@@ -9,3 +9,5 @@ The SUV asset was adapted from the Leszkikrov model released under the CC-0 lice
 An interior was added, and the model was rigged to work with the WheeledVehicle Unreal class, as well as the AirSim project.
 
 The textures come from the freely available [Automotive Materials pack](https://www.unrealengine.com/marketplace/automotive-material-pack?prox=1) released by Epic. 
+
+The assets have been tested with Unreal Engine version 4.16.3 Other versions may or may not work.
